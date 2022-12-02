@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+    color: green;
+    font-size: 50px;
+    background-color: #111;
+    border-radius: 10px;
+}
+
+a:hover {
+    background-color: red;
+    color: white;
+}
+
+h1 {
+    font-size: 100px;
+}
